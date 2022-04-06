@@ -1,0 +1,210 @@
+html{
+  background-color: #16DB93;
+}
+.saludo{
+  background-color: #EFEA5A;
+  display: flex;
+  height: 10rem;
+  width: 40rem;
+  font-size: 5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.presentacion{
+  display: flex;
+}
+
+.yo{
+  background-color: #EFEA5A;
+  display: flex;
+  height: 6rem;
+  width: 13rem;
+  font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10rem;
+  margin-top: 3rem;
+}
+
+.nombre{
+  background-color: #F29E4C;
+  display: flex;
+  height: 8rem;
+  width: 40rem;
+  font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10rem;
+  margin-top: 2rem;
+}
+
+.edad{
+  background-color: #048BA8;
+  display: flex;
+  height: 10rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.infancia{
+  background-color: #048BA8;
+  display: flex;
+  height: 10rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-right: 2rem;
+  margin-left: auto;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.seleccion{
+  background-color: #048BA8;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.examen{
+  background-color: #A4036F;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-right: 2rem;
+  margin-left: auto;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.secundaria{
+  background-color: #A4036F;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.matematicas{
+  background-color: #A4036F;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-right: 2rem;
+  margin-left: auto;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.bachillerato{
+  background-color: #048BA8;
+  display: flex;
+  height: 30rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.ingles{
+  background-color: #048BA8;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-right: 2rem;
+  margin-left: auto;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.carrera{
+  background-color: #A4036F;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.software{
+  background-color: #A4036F;
+  display: flex;
+  height: 20rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-right: 2rem;
+  margin-left: auto;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.universidad{
+  background-color: #A4036F;
+  display: flex;
+  height: 10rem;
+  width: 60rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+}
+
+.fibonacci{
+  background-color: #F29E4C;
+  display: flex;
+  height: 10rem;
+  width: 100%;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.factorial{
+  background-color: #F29E4C;
+  display: flex;
+  height: 10rem;
+  width: 100%;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
