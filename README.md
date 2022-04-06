@@ -1,1 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7548157&assignment_repo_type=AssignmentRepo)
+# js-css-html-template
+
+Primera practica frontend
+
+Crea una pagina sobre ti describiendote, segun los comentarios en el archivo algo.html
+
+resuelve los problemas de la sucesion de fibonacci y el factorial
