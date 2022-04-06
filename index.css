@@ -39,20 +39,78 @@ html{
   margin-top: 2rem;
 }
 
-.edad{
+.grupo{
+  display: flex;
+  justify-content: space-around;
+}
+
+.tag{
   background-color: #048BA8;
   display: flex;
-  height: 10rem;
-  width: 60rem;
+  height: 5rem;
+  width: 15rem;
   font-size: 2rem;
   align-items: center;
   justify-content: center;
+  text-align: center;
   margin-left: 2rem;
   margin-top: 2rem;
-  padding-left: 1rem;
 }
 
-.infancia{
+.final{
+  background-color: #048BA8;
+  display: flex;
+  height: 5rem;
+  width: 30rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+}
+
+.titulo{
+  background-color: #A4036F;
+  display: flex;
+  height: 10rem;
+  width: 50rem;
+  font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10rem;
+}
+
+.text{
+  background-color: #A4036F;
+  display: flex;
+  height: 10rem;
+  width: 45rem;
+  font-size: 3rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10rem;
+}
+
+.tag-grande{
+  background-color: #048BA8;
+  display: flex;
+  height: 10rem;
+  width: 30rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.edad{
   background-color: #048BA8;
   display: flex;
   height: 10rem;
