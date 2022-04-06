@@ -8,9 +8,7 @@ function fibo() {
     n2 = nextTerm;
   }
   const container = document.getElementById("fiboContainer");
-  const praragraph = document.createElement("p");
-  praragraph.innerText = n1;
-  container.appendChild(praragraph);
+  container.innerText = n1;
 }
 
 function facto() {
@@ -18,9 +16,7 @@ function facto() {
   n1 = Recursive(num);
 
   const container = document.getElementById("factoContainer");
-  const praragraph = document.createElement("p");
-  praragraph.innerText = n1;
-  container.appendChild(praragraph);
+  container.innerText = n1;
 }
 
 function Recursive(n) {
