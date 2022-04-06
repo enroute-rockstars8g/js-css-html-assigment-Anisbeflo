@@ -1,4 +1,4 @@
-function fibo(){
+function fibo() {
   const fiboNumber = parseInt(document.getElementById("inputFibo").value);
   let n1 = 0, n2 = 1, nextTerm;
 
@@ -13,3 +13,19 @@ function fibo(){
   container.appendChild(praragraph);
 }
 
+function facto() {
+  const num = parseInt(document.getElementById("inputFacto").value);
+  n1 = Recursive(num);
+
+  const container = document.getElementById("factoContainer");
+  const praragraph = document.createElement("p");
+  praragraph.innerText = n1;
+  container.appendChild(praragraph);
+}
+
+function Recursive(n) {
+  if (n == 0) {
+    return 1;
+  }
+  return n * Recursive(n - 1);
+}
