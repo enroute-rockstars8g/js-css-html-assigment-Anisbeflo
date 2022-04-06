@@ -10,6 +10,9 @@ html{
   align-items: center;
   justify-content: center;
 }
+.foto{
+  height: 10rem;
+}
 
 .presentacion{
   display: flex;
@@ -108,141 +111,6 @@ html{
   text-align: center;
   margin-left: 2rem;
   margin-top: 2rem;
-}
-
-.edad{
-  background-color: #048BA8;
-  display: flex;
-  height: 10rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-right: 2rem;
-  margin-left: auto;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.seleccion{
-  background-color: #048BA8;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.examen{
-  background-color: #A4036F;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-right: 2rem;
-  margin-left: auto;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.secundaria{
-  background-color: #A4036F;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.matematicas{
-  background-color: #A4036F;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-right: 2rem;
-  margin-left: auto;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.bachillerato{
-  background-color: #048BA8;
-  display: flex;
-  height: 30rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.ingles{
-  background-color: #048BA8;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-right: 2rem;
-  margin-left: auto;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.carrera{
-  background-color: #A4036F;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.software{
-  background-color: #A4036F;
-  display: flex;
-  height: 20rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-right: 2rem;
-  margin-left: auto;
-  margin-top: 2rem;
-  padding-left: 1rem;
-}
-
-.universidad{
-  background-color: #A4036F;
-  display: flex;
-  height: 10rem;
-  width: 60rem;
-  font-size: 2rem;
-  align-items: center;
-  justify-content: center;
-  margin-left: 2rem;
-  margin-top: 2rem;
-  padding-left: 1rem;
 }
 
 .fibonacci{
