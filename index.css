@@ -10,7 +10,7 @@ html{
   align-items: center;
   justify-content: center;
 }
-.foto{
+.foto, #foto1{
   height: 10rem;
 }
 
